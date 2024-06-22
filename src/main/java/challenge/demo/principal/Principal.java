@@ -9,14 +9,14 @@ import challenge.demo.repository.AutorRepository;
 import challenge.demo.repository.LibroRepository;
 import challenge.demo.service.ConsumoAPI;
 import challenge.demo.service.ConversorDatos;
-import java.util.Comparator;
+// import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-import org.springframework.transaction.annotation.Transactional;
+// import org.springframework.transaction.annotation.Transactional;
 
 /**
  *
